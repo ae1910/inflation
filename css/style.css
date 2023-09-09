@@ -211,7 +211,7 @@ body {
     overflow: hidden;
 }
 .svg-container-mobile {
-    top: calc(100vh + 850px);
+    top: calc(100vh + 625px);
     display: block;
     position: absolute;
 }
@@ -316,7 +316,7 @@ body {
     }
 
     .heading {
-        margin-bottom: 4vh;;
+        margin-bottom: 4vh;
     }
 
     #definition p {
@@ -327,7 +327,7 @@ body {
         padding: 0 25vw;
     }
     .svg-container-desktop {
-        top: calc(100vh + 1067px);
+        top: calc(100vh + 867px);
         transform: translateX(29.5px);
         display: inherit;
     }

@@ -23,7 +23,7 @@ parallax
         scrollTrigger: {
             trigger: '.cls-1',
             scrub: true,
-            start: 'top 10%',
+            start: '2% 10%',
             end: "90% center"
         },
         strokeDashoffset:0,
@@ -34,12 +34,11 @@ parallax
         scrollTrigger: {
             trigger: '.cls-2',
             scrub: true,
-            start: 'top 10%',
-            markers: true,
+            start: '-0.5% 20%',
             end: "85% top"
         },
         strokeDashoffset:0,
         ease: 'none',
-        duration: 3
+        duration: 4
     });
     
