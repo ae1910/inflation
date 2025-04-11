@@ -14,6 +14,6 @@ https://github.com/user-attachments/assets/5c86c139-1f8c-4dae-855a-f846ff2bce0a
 + Simplified information explaining what inflation is in a way that gets to the point
 + SVG Animation that draws out images protaining to the information as the user scrolls 
 + Mobile friendly
-## Problems We Encountered
+## Problems I Encountered
 + Responsiveness: The scaling of the SVG is not consistent when it comes to the resizing the size of the screen.
 + Speed: The speed of the line as it draws out, does not completely match up to the scrolling.
