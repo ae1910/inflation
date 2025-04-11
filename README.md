@@ -3,6 +3,7 @@ Inflation affects all aspects of our economy, from what you buy, invest and earn
 ## Walkthrough
 https://github.com/user-attachments/assets/5c86c139-1f8c-4dae-855a-f846ff2bce0a
 
+### Wireframe
 ![InflationWireframe a8ad6aacb87826a06553](https://github.com/user-attachments/assets/e2dd46ea-7ed9-473c-a23d-ec492224b6ac)
 ## Technologies Used
 + GSAP
